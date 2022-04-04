@@ -1,0 +1,12 @@
+.blogs {
+    text-align: center;
+    color: red;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.blog {
+    border: 2px solid aqua;
+    padding: 20px;
+    margin: 15px;
+}
