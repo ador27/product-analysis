@@ -1,0 +1,27 @@
+.homepage {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 70px;
+    padding-left: 50px;
+}
+
+.hoodie img {
+    height: 500px;
+    width: 55%;
+    margin-left: 120px;
+}
+
+.title {
+    color: blue;
+    font-size: 50px;
+}
+
+.title1 {
+    color: rgb(230, 23, 68);
+    font-size: 40px;
+}
+
+.details p {
+    color: black;
+    font-size: 18px;
+}
