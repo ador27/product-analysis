@@ -1,0 +1,14 @@
+.review {
+    margin-top: 50px;
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+}
+
+.title2 {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    color: blueviolet;
+}

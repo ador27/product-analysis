@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Kamal khan",
+        "review": "It's very cool looking, feels solid. But if you're going to gamble on size, buy straight from their site. I'm a 3X, their largest size, and the product was easily perfect for a 1X.",
+        "rating": "5 Star",
+        "picture": "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Jamal ",
+        "review": "Ordered this for my teenage son. He had been eyeing a higher priced version. To say he likes it would be an understatement. He loves this hoodie. He is five 3 and ordered the small.",
+        "rating": "4.5 Star",
+        "picture": "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Razu Ahamad",
+        "review": "It's very cool looking, feels solid. But if you're going to gamble on size, buy straight from their site.  He loves this hoodie. He is five 3 and ordered the small.",
+        "rating": "4.7 Star",
+        "picture": "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Borkot",
+        "review": "It looks pretty cool, right? Halfway between a knight and a ninja, maybe? Well, besides the lack of pockets and it is a pullover rather than a zip-up... it' not really worth my money. ",
+        "rating": "5 Star",
+        "picture": "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Khan Muhammad",
+        "review": "I absolutely love my knight hoodie😊its very resistant to cold,wind and rain.Its very good material so its super warm and looks like body armor while being super light weight.",
+        "rating": "5 Star",
+        "picture": "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Rubayat",
+        "review": "I bought these for my brother and his girlfriend for Christmas because they both are University of Central Florida Alumni, Home of the Knights, well they live in Houston.",
+        "rating": "4.9 Star",
+        "picture": "https://www.opticalexpress.co.uk/media/1064/man-with-glasses-smiling-looking-into-distance.jpg"
+    }
+]
