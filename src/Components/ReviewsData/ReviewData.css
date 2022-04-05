@@ -1,0 +1,15 @@
+.reviewss {
+    border: 2px solid rgb(102, 13, 175);
+    margin-top: 40px;
+    margin-left: 50px;
+    padding: 40px;
+    margin-right: 600px;
+    height: 300px;
+    width: 350px;
+    padding-bottom: 10px;
+}
+
+.reviewss img {
+    height: 100px;
+    width: 120px;
+}

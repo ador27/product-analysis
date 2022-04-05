@@ -25,3 +25,22 @@
     color: black;
     font-size: 18px;
 }
+
+.customerReview {
+    margin-top: 20px;
+    text-align: center;
+    color: brown;
+}
+
+.review-container {
+    display: grid;
+}
+
+.reviewButton {
+    text-decoration: none;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
